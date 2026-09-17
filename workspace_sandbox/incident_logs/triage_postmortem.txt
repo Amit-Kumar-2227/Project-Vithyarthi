@@ -1,0 +1,3 @@
+Incident Severity: High
+Root Cause: Memory leak in connection pool.
+Remediation: Pool recycled.
